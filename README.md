@@ -1,0 +1,1 @@
+The codes for the paper 'Chemical Degradation at the Cathode/Solid-Electrolyte Inferface Altering Reaction in Particle Ensemble and Microstructure in All-Solid-State Batteries' which is being prepared by Chanhyun Park, Jingyu Choi, Seojoung Park, et al.
